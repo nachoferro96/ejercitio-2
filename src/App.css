@@ -1,0 +1,23 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+.GREEN{
+  color: green;
+  font-size: 50px;
+}
+
+.RED{
+  color: red;
+  font-size: 50px;
+}
+
+.contenedor{
+  display: flex;
+  width: 100vw;
+  height: 80vh;
+  align-items: center;
+  justify-content: center;
+}
+
